@@ -1,0 +1,23 @@
+.cardBody {
+    width:400px;
+    border:1px solid black;
+    
+}
+/* .container {
+    text-align: center;
+}
+
+.header,
+.footer {
+    width:100%;
+    font-size:40px;
+    color:purple;
+    text-transform: uppercase;
+    background-color: aliceblue;
+    padding:20px 0;
+    letter-spacing: 5px;
+}
+.menu {
+    display: flex;
+    flex-wrap: wrap;
+} */
